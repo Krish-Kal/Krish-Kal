@@ -1,11 +1,6 @@
 
- <h1 >Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
 <div align="center">
-  <p style="font-size: 18px; color: #ffffff;">
-    I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
-    <br />
-    If you love gaming and cool web designs, you're in the right place! 😎
-  </p>
+  <h1 >Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
 </div>
 
 
@@ -18,9 +13,13 @@
 </div> 
 
   
-🎮 Currently building: <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong> – A fun & animated gaming experience  
-🧠 Learning: Next.js, Advanced React Patterns  
-💡 Passionate about: JavaScript · CSS Art · Game Design  
+<div align="center">
+  <p style="font-size: 18px; color: #ffffff;">
+    I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
+    <br />
+    If you love gaming and cool web designs, you're in the right place! 😎
+  </p>
+</div>
 
 </div>
 
@@ -70,17 +69,16 @@
 
   <!-- React Learning Section -->
   <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="vertical-align: middle;"/>
-    <strong>Advanced <span style="font-weight: normal;">React patterns</span>: <span style="font-weight: bold;">Hooks</span>, <span style="font-weight: bold;">Context API</span>, <span style="font-weight: bold;">Custom Hooks</span>, etc.
+    <strong>Advanced React patterns: Hooks, Context API, Custom Hooks, etc.</strong>
   </span>
 
   <!-- Web Performance Section -->
   <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Web Performance" style="vertical-align: middle;"/>
-    <strong>Web performance optimization for <span style="font-weight: normal;">fast, responsive websites</span></strong>
+    <strong>Web performance optimization for fast, responsive websites</strong>
   </span>
 
 </p>
+
 
 
 
@@ -92,19 +90,19 @@
   <tr>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gmail_Icon_2020.svg/512px-Gmail_Icon_2020.svg.png" width="40" alt="Email"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" width="40" alt="Email"/>
         <br/><strong>Email</strong>
       </a>
     </td>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_Logo_2013_2019.svg" width="40" alt="LinkedIn"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/250px-LinkedIn_2021.svg.png" width="40" alt="LinkedIn"/>
         <br/><strong>LinkedIn</strong>
       </a>
     </td>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" width="40" alt="Twitter"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/120px-X_logo_2023.svg.png" width="40" alt="Twitter"/>
         <br/><strong>Twitter</strong>
       </a>
     </td>
