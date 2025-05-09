@@ -1,7 +1,5 @@
- <div align = "center">
-   # Hi there 👋, I'm Krishna Kalvakolanu!
- </div>
- <h1 >Welcome to my GitHub profile! 🚀</h1>
+
+ <h1 >Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
 <div align="center">
   <p style="font-size: 18px; color: #ffffff;">
     I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
@@ -68,17 +66,22 @@
 
 ### 🌱 Currently Learning
 
-<p align="center">
-  
-  <span style="padding: 10px; background: #2e3b4e; border-radius: 12px; margin: 5px; color: white; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="vertical-align: middle; margin-right: 8px;"/>
-    Advanced **React** patterns: **Hooks**, **Context API**, **Custom Hooks**, etc.
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <!-- React Learning Section -->
+  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="vertical-align: middle;"/>
+    <strong>Advanced <span style="font-weight: normal;">React patterns</span>: <span style="font-weight: bold;">Hooks</span>, <span style="font-weight: bold;">Context API</span>, <span style="font-weight: bold;">Custom Hooks</span>, etc.
   </span>
-  <span style="padding: 10px; background: #2e3b4e; border-radius: 12px; margin: 5px; color: white; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Web Performance" style="vertical-align: middle; margin-right: 8px;"/>
-    Web performance optimization for **fast, responsive websites**
+
+  <!-- Web Performance Section -->
+  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Web Performance" style="vertical-align: middle;"/>
+    <strong>Web performance optimization for <span style="font-weight: normal;">fast, responsive websites</span></strong>
   </span>
+
 </p>
+
 
 
 ---
@@ -89,13 +92,13 @@
   <tr>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gmail_Icon_%282013-2020%29.png" width="40" alt="Email"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gmail_Icon_2020.svg/512px-Gmail_Icon_2020.svg.png" width="40" alt="Email"/>
         <br/><strong>Email</strong>
       </a>
     </td>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013_2019.png" width="40" alt="LinkedIn"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_Logo_2013_2019.svg" width="40" alt="LinkedIn"/>
         <br/><strong>LinkedIn</strong>
       </a>
     </td>
@@ -107,6 +110,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
