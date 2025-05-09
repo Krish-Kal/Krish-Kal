@@ -1,18 +1,22 @@
 # Hi there 👋, I'm Krishna Kalvakolanu!
 
-Welcome to my GitHub profile! 🚀
-I’m a **Full Stack Developer** who loves creating **visually rich web experiences** and integrating **exciting animations** into my projects. 🎮
+Welcome to my GitHub profile! 🚀  
+I’m a **Full Stack Developer** who loves creating **visually rich web experiences** and integrating **exciting animations** into my projects. 🎮  
 If you love gaming and cool web designs, you're in the right place! 😎
 
 ---
 
 ### 🚀 About Me
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%2B+Node+Enthusiast;Game+Tech+Explorer+%F0%9F%8E%AE;Lover+of+CSS+Animations+%F0%9F%92%A8" alt="Typing SVG" /> </div> <div align="center">
-🎮 Currently building: <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong> – A fun & animated gaming experience
-🧠 Learning: AI in Gaming · Advanced React Patterns
-💡 Passionate about: JavaScript · CSS Art · Game Design
-📬 <a href="mailto:your.email@example.com">Reach Out Anytime!</a>
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Tech+Explorer+%F0%9F%8E%AE" alt="Typing SVG" /> 
+</div> 
+<div align="center">
+  🎮 Currently building: <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong> – A fun & animated gaming experience  
+  🧠 Learning: AI in Gaming · Advanced React Patterns  
+  💡 Passionate about: JavaScript · CSS Art · Game Design  
+  📬 <a href="mailto:your.email@example.com">Reach Out Anytime!</a>
+</div>
 
 </div>
 
@@ -51,7 +55,55 @@ If you love gaming and cool web designs, you're in the right place! 😎
 
 ### 🤝 Let's Connect!
 
-<table align="center" style="border-spacing: 15px;"> <tr> <td align="center" style="padding: 20px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" alt="Email"/> <br/><strong>Email</strong> </a> </td> <td align="center" style="padding: 20px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <a href="https://your-portfolio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg" width="50" alt="Portfolio"/> <br/><strong>Portfolio</strong> </a> </td> <td align="center" style="padding: 20px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <a href="https://twitter.com/your-twitter-handle" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" alt="Twitter"/> <br/><strong>Twitter</strong> </a> </td> <td align="center" style="padding: 20px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/> <br/><strong>LinkedIn</strong> </a> </td> </tr> </table>
+<table align="center" style="border-spacing: 20px; text-align: center;">
+  <tr>
+    <td style="padding: 15px; background: #f0f4f8; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: #333;">
+        <i class="fas fa-envelope" style="font-size: 50px; color: #D44638;"></i>
+        <br/><strong>Email</strong>
+      </a>
+    </td>
+
+    <td style="padding: 15px; background: #f0f4f8; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://your-portfolio.com" target="_blank" style="text-decoration: none; color: #333;">
+        <i class="fas fa-laptop-code" style="font-size: 50px; color: #5C6BC0;"></i>
+        <br/><strong>Portfolio</strong>
+      </a>
+    </td>
+
+    <td style="padding: 15px; background: #f0f4f8; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: #333;">
+        <i class="fab fa-twitter" style="font-size: 50px; color: #1DA1F2;"></i>
+        <br/><strong>Twitter</strong>
+      </a>
+    </td>
+
+    <td style="padding: 15px; background: #f0f4f8; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+      <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: #333;">
+        <i class="fab fa-linkedin" style="font-size: 50px; color: #0077B5;"></i>
+        <br/><strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<style>
+  table td: hover {
+    transform: translateY(-5px);
+  }
+
+  table td a {
+    transition: color 0.3s;
+  }
+
+  table td a: hover {
+    color: #1976D2;
+  }
+</style>
+
+<!-- Add FontAwesome -->
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 
 ---
 
