@@ -52,36 +52,31 @@
 
 ### 🎮 Featured Projects
 
-<table> <tr> <td align="center" width="280"> <a href="https://arcade-vault-seven.vercel.app/" target="_blank"> <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault Typing Banner" /> </a> </td> <td> <h3><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></h3> <p> A sleek and interactive gaming website designed with stunning visuals and smooth animations.<br/> ⚡ Built using <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS animations</strong>.<br/> 🧠 Features upcoming AI-based components for smart search and recommendations.<br/> 🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub Repo</a> </p> </td> </tr> </table>
+<table align="center" style="width: 100%; max-width: 600px; text-align: center; border-spacing: 20px;">
+  <tr>
+    <td align="center" width="200"> 
+      <a href="https://arcade-vault-seven.vercel.app/" target="_blank"> 
+        <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault Typing Banner" width="180" /> 
+      </a> 
+    </td>
+    <td style="text-align: left; padding-left: 10px;">
+      <h3><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></h3>
+      <p> 
+        A sleek and interactive gaming website designed with stunning visuals and smooth animations.<br/> 
+        ⚡ Built using <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS animations</strong>.<br/> 
+        🧠 Features upcoming AI-based components for smart search and recommendations.<br/> 
+        🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub Repo</a> 
+      </p> 
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ### 🧑‍💻 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish-Kal\&show_icons=true\&count_private=true\&hide_title=true\&hide=prs\&theme=dark)
-
----
-
-### 🌱 Currently Learning
-
-<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- React Learning Section -->
-  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; flex-direction: column; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 250px;">
-    <strong>Advanced React patterns</strong>
-    <span style="font-size: 14px; font-weight: normal;">Hooks, Context API, Custom Hooks, etc.</span>
-  </span>
-
-  <!-- Web Performance Section -->
-  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; flex-direction: column; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 250px;">
-    <strong>Web performance optimization</strong>
-    <span style="font-size: 14px; font-weight: normal;">for fast, responsive websites</span>
-  </span>
-
-</p>
-
-
-
 
 
 
