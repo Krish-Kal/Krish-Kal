@@ -4,7 +4,6 @@
 </div>
 
 
----
 
 ### 🚀 About Me
 
@@ -91,23 +90,21 @@
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" width="40" alt="Email"/>
-        <br/><strong>Email</strong>
       </a>
     </td>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/250px-LinkedIn_2021.svg.png" width="40" alt="LinkedIn"/>
-        <br/><strong>LinkedIn</strong>
+        <img src="https://static.licdn.com/aero-v1/sc/h/4221chis9yaztef5phd0v3lal" width="40" alt="LinkedIn"/>
       </a>
     </td>
     <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/120px-X_logo_2023.svg.png" width="40" alt="Twitter"/>
-        <br/><strong>Twitter</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
