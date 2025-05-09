@@ -8,38 +8,24 @@ If you love gaming and cool web designs, you're in the right place! 😎
 
 ### 🚀 About Me
 
-* 👨‍💻 Full Stack Developer | React.js & Node.js enthusiast
-* 🎮 Gamer at heart, always exploring new ways to enhance game tech!
-* 📚 Currently working on: **Arcade\_Vault** – A fun, interactive gaming website.
-* 🌍 Currently learning: **AI integration for gaming** & **Advanced React patterns**.
-* 💬 Ask me about: **JavaScript, React, Node.js, CSS animations**, and **gaming tech**.
-* 📫 Feel free to reach out: [your.email@example.com](mailto:your.email@example.com)
+<table> <tr> <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=react,nodejs,css,javascript" height="50"/> </td> <td> <ul> <li>👨‍💻 Full Stack Dev | React.js & Node.js Enthusiast</li> <li>🎮 Building <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong></li> <li>🤖 Learning AI for Web & Advanced React</li> <li>💬 Ask me about: JS, CSS Animations, Game Tech</li> <li>📫 <a href="mailto:your.email@example.com">Let's Connect</a></li> </ul> </td> </tr> </table>
 
 ---
 
 ### ✨ Tech Stack & Tools
 
-#### 🚀 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-
-#### 🛠️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-#### ⚙️ Other Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://user-images.githubusercontent.com/74038190/212519990-929d2f26-b504-4fef-9fcb-7d5b3e59e1bd.png" width="40" height="40"/>
+🚀 Frontend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/> </p>
+🛠️ Backend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/> </p>
+⚙️ Other Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" title="Vercel" width="40" height="40"/> </p>
 
 ---
 
 ### 🎮 Featured Projects
 
-<table> <tr> <td align="center" width="250"> <a href="https://arcade-vault-seven.vercel.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/213907774-d3d97c94-e1f9-4f55-976f-bd34e2e8f0ff.gif" width="100%" alt="Arcade Vault Preview"/> </a> </td> <td> <h3><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></h3> <p> A visually stunning, responsive gaming website with immersive animations and an engaging UI.<br/> 🚀 Built with <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS animations</strong>.<br/> 🔗 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | <a href="https://github.com/Krish-Kal/arcade-vault">GitHub Repo</a> </p> </td> </tr> </table>
+<table> <tr> <td align="center" width="280"> <a href="https://arcade-vault-seven.vercel.app/" target="_blank"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=280&lines=🚀+Arcade+Vault;A+Visually+Immersive+Gaming+Hub" alt="Arcade Vault Typing Banner" /> </a> </td> <td> <h3><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></h3> <p> A sleek and interactive gaming website designed with stunning visuals and smooth animations.<br/> ⚡ Built using <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS animations</strong>.<br/> 🧠 Features upcoming AI-based components for smart search and recommendations.<br/> 🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub Repo</a> </p> </td> </tr> </table>
 
 ---
 
@@ -59,7 +45,7 @@ If you love gaming and cool web designs, you're in the right place! 😎
 
 ### 🤝 Let's Connect!
 
-<table> <tr> <td align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.icons8.com/fluency/48/email.png" alt="Email" width="40"/><br/> <sub>Email</sub> </a> </td> <td align="center"> <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40"/><br/> <sub>Portfolio</sub> </a> </td> <td align="center"> <a href="https://twitter.com/your-twitter-handle" target="_blank"> <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/><br/> <sub>Twitter</sub> </a> </td> <td align="center"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/><br/> <sub>LinkedIn</sub> </a> </td> </tr> </table>
+<table> <tr> <td align="center" style="padding: 15px;"> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/><br/> <strong>Email</strong> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-web-flaticons-lineal-color-flat-icons.png" width="48" alt="Portfolio"/><br/> <strong>Portfolio</strong> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://twitter.com/your-twitter-handle" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter"/><br/> <strong>Twitter</strong> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/><br/> <strong>LinkedIn</strong> </a> </td> </tr> </table>
 
 ---
 
