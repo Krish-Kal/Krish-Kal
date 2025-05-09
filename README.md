@@ -1,9 +1,14 @@
 # Hi there 👋, I'm Krishna Kalvakolanu!
 
-Welcome to my GitHub profile! 🚀  
+<div align="center">
+  <h1 style="font-family: 'Fira Code', monospace; font-size: 36px; color: #00F7FF;">Welcome to my GitHub profile! 🚀</h1>
+  <p style="font-size: 18px; color: #ffffff;">
+    I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
+    <br />
+    If you love gaming and cool web designs, you're in the right place! 😎
+  </p>
+</div>
 
-I’m a **Full Stack Developer** who loves creating **visually rich web experiences** and integrating **exciting animations** into my projects. 🎮  
-If you love gaming and cool web designs, you're in the right place! 😎
 
 ---
 
@@ -12,13 +17,11 @@ If you love gaming and cool web designs, you're in the right place! 😎
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Tech+Explorer+%F0%9F%8E%AE" alt="Typing SVG" /> 
 </div> 
-<div align="center">
+
   
-  🎮 Currently building: <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong> – A fun & animated gaming experience  
-  🧠 Learning: Next.js, Advanced React Patterns  
-  💡 Passionate about: JavaScript · CSS Art · Game Design  
-  📬 <a href="mailto:your.email@example.com">Reach Out Anytime!</a>
-</div>
+🎮 Currently building: <strong><a href="https://arcade-vault-seven.vercel.app/" target="_blank">Arcade_Vault</a></strong> – A fun & animated gaming experience  
+🧠 Learning: Next.js, Advanced React Patterns  
+💡 Passionate about: JavaScript · CSS Art · Game Design  
 
 </div>
 
@@ -64,51 +67,46 @@ If you love gaming and cool web designs, you're in the right place! 😎
 
 ### 🌱 Currently Learning
 
-* Integrating **AI** and **ML** into gaming websites to enhance user experience.
-* Advanced **React** patterns: **Hooks**, **Context API**, **Custom Hooks**, etc.
-* Web performance optimization techniques and best practices for **fast, responsive websites**.
+<p align="center">
+  
+  <span style="padding: 10px; background: #2e3b4e; border-radius: 12px; margin: 5px; color: white; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="vertical-align: middle; margin-right: 8px;"/>
+    Advanced **React** patterns: **Hooks**, **Context API**, **Custom Hooks**, etc.
+  </span>
+  <span style="padding: 10px; background: #2e3b4e; border-radius: 12px; margin: 5px; color: white; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Web Performance" style="vertical-align: middle; margin-right: 8px;"/>
+    Web performance optimization for **fast, responsive websites**
+  </span>
+</p>
+
 
 ---
 
 ### 🤝 Let's Connect!
 
-<table align="center" style="border-spacing: 20px; text-align: center; width: 100%; max-width: 800px;">
+<table align="center" style="width: 100%; max-width: 800px; text-align: center; border-spacing: 20px;">
   <tr>
-    <td style="padding: 20px; background: #2e3b4e; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); color: white; transition: transform 0.3s; text-align: center;">
+    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://img.icons8.com/ios/50/ffffff/email.png" width="50" alt="Email"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" alt="Email"/>
         <br/><strong>Email</strong>
       </a>
     </td>
-    <td style="padding: 20px; background: #2e3b4e; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); color: white; transition: transform 0.3s;">
-      <a href="https://your-portfolio.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://img.icons8.com/ios/50/ffffff/domain.png" width="50" alt="Portfolio"/>
-        <br/><strong>Portfolio</strong>
-      </a>
-    </td>
-    <td style="padding: 20px; background: #2e3b4e; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); color: white; transition: transform 0.3s;">
-      <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://img.icons8.com/ios/50/ffffff/twitter.png" width="50" alt="Twitter"/>
-        <br/><strong>Twitter</strong>
-      </a>
-    </td>
-    <td style="padding: 20px; background: #2e3b4e; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); color: white; transition: transform 0.3s;">
+    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://img.icons8.com/ios/50/ffffff/linkedin.png" width="50" alt="LinkedIn"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
         <br/><strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+        <br/><strong>Twitter</strong>
       </a>
     </td>
   </tr>
 </table>
 
-<style>
-  table td: hover {
-    transform: translateY(-10px);
-  }
-  table td a: hover {
-    color: #00C1D4;
-  }
-</style>
 
 ---
 
@@ -122,4 +120,3 @@ If you have any questions or just want to chat about coding, gaming, or AI, I’
 
 ---
 
-use this and less text more visual dynamic images more professional more animations text animations
