@@ -1,7 +1,8 @@
-# Hi there 👋, I'm Krishna Kalvakolanu!
-
+ <div align = "center">
+   # Hi there 👋, I'm Krishna Kalvakolanu!
+ </div>
+ <h1 >Welcome to my GitHub profile! 🚀</h1>
 <div align="center">
-  <h1 style="font-family: 'Fira Code', monospace; font-size: 36px; color: #00F7FF;">Welcome to my GitHub profile! 🚀</h1>
   <p style="font-size: 18px; color: #ffffff;">
     I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
     <br />
@@ -86,26 +87,27 @@
 
 <table align="center" style="width: 100%; max-width: 800px; text-align: center; border-spacing: 20px;">
   <tr>
-    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" alt="Email"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gmail_Icon_%282013-2020%29.png" width="40" alt="Email"/>
         <br/><strong>Email</strong>
       </a>
     </td>
-    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013_2019.png" width="40" alt="LinkedIn"/>
         <br/><strong>LinkedIn</strong>
       </a>
     </td>
-    <td style="padding: 15px; background: #1a2b3c; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" width="40" alt="Twitter"/>
         <br/><strong>Twitter</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
