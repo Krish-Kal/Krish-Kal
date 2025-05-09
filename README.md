@@ -64,19 +64,22 @@
 
 ### 🌱 Currently Learning
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- React Learning Section -->
-  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <strong>Advanced React patterns: Hooks, Context API, Custom Hooks, etc.</strong>
+  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; flex-direction: column; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 250px;">
+    <strong>Advanced React patterns</strong>
+    <p style="font-size: 14px; font-weight: normal;">Hooks, Context API, Custom Hooks, etc.</p>
   </span>
 
   <!-- Web Performance Section -->
-  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <strong>Web performance optimization for fast, responsive websites</strong>
+  <span style="padding: 15px; background: #2e3b4e; border-radius: 12px; color: white; display: flex; flex-direction: column; align-items: center; gap: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 250px;">
+    <strong>Web performance optimization</strong>
+    <p style="font-size: 14px; font-weight: normal;">for fast, responsive websites</p>
   </span>
 
 </p>
+
 
 
 
