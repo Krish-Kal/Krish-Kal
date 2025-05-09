@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Krishna Kalvakolanu!  
-![Hello](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 Welcome to my GitHub profile! 🚀  
 I’m a **Full Stack Developer** who loves creating **visually rich web experiences** and integrating **exciting animations** into my projects. 🎮  
@@ -53,7 +52,7 @@ A visually stunning, responsive website with smooth animations and a fun, intera
 
 ### 🧑‍💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish-Kal&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
 ---
 
