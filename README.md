@@ -3,9 +3,9 @@
   <h1 >Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
 </div>
 
+---
 
 
-### 🚀 About Me
 
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Tech+Explorer+%F0%9F%8E%AE" alt="Typing SVG" /> 
