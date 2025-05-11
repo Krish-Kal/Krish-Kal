@@ -52,22 +52,23 @@
 
 ### 🎮 Featured Projects
 
-<table align="center" style="width: 100%; max-width: 600px; text-align: center; border-spacing: 10px;">
+<table align="left" style="width: 100%; max-width: 550px; border-spacing: 10px; margin-left: 0;">
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="110">
       <a href="https://arcade-vault-seven.vercel.app/" target="_blank">
-        <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault Banner" width="120" />
+        <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault Banner" width="100" />
       </a>
     </td>
-    <td align="left" style="font-size: 14px;">
+    <td align="left" style="font-size: 13.5px; line-height: 1.4;">
       <strong><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></strong><br/>
-      Sleek and interactive gaming website with smooth animations.<br/>
-      ⚡ Built with <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS animations</strong>.<br/>
-      🧠 AI-powered smart search & recommendations (coming soon).<br/>
-      🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub Repo</a>
+      Sleek, interactive gaming site with smooth animations.<br/>
+      ⚡ Built with <strong>React.js</strong>, <strong>Node.js</strong>, <strong>CSS</strong>.<br/>
+      🧠 Upcoming AI-powered search & recommendations.<br/>
+      🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub</a>
     </td>
   </tr>
 </table>
+
 
 
 
