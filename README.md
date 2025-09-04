@@ -70,8 +70,8 @@
     <td style="font-size: 14px; line-height: 1.5;">
       <strong><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade Vault</a></strong><br/>
      Arcade Vault – An interactive gaming hub that lets users explore trending games, discover new titles, and enjoy AI-powered smart search, all in a visually rich and seamless experience..<br/>
-      ⚡ Smooth animations + AI-ready search features.<br/>
-      🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub</a>
+      ⚡ Incredible Experience + Visual Appeal.<br/>
+      🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/ArcadeVault/">GitHub</a>
     </td>
   </tr>
 </table>
