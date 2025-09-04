@@ -1,126 +1,92 @@
-
 <div align="center">
-  <h1 >Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
+  <h1>Hi there 👋, I'm Krishna Kalvakolanu! 🚀</h1>
 </div>
 
 ---
 
-
-
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Tech+Explorer+%F0%9F%8E%AE" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Gamer+%F0%9F%8E%AE;Web+Explorer" alt="Typing SVG" /> 
 </div> 
 
-  
 <div align="center">
   <p style="font-size: 18px; color: #ffffff;">
-    I’m a <strong>Full Stack Developer</strong> with a passion for creating <strong>visually rich web experiences</strong> and integrating <strong>exciting animations</strong> into my projects. 🎮
-    <br />
-    If you love gaming and cool web designs, you're in the right place! 😎
+    🎮 Tech enthusiast & gamer exploring <strong>interactive web experiences</strong> and cool animations.<br/>
+    🚀 Experimenting with React, Node.js, and AI-powered features.<br/>
+    ✨ Always learning, building, and leveling up!
   </p>
 </div>
 
-</div>
-
 ---
 
-### ✨ Tech Stack & Tools
+### ⚡ Tech Stack & Tools
 
-🚀 Frontend
-<p align="left" style="margin-left: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width="50" height="50" style="margin: 0 20px;"/> 
-</p>
-
-🛠️ Backend
-<p align="left" style="margin-left: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express.js" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50" style="margin: 0 20px;"/> 
-</p>
-
-⚙️ Other Tools
-<p align="left" style="margin-left: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" width="50" height="50" style="margin: 0 20px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" title="Vercel" width="50" height="50" style="margin: 0 20px;"/> 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 🎮 Featured Projects
+### 🎮 Featured Project
 
-<table style="width: 100%; max-width: 550px; border-spacing: 10px;">
+<table style="width: 100%; max-width: 600px; border-spacing: 10px;">
   <tr>
-    <td align="center" width="110" style="vertical-align: top;">
+    <td align="center" width="110">
       <a href="https://arcade-vault-seven.vercel.app/" target="_blank">
-        <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault Banner" width="100" />
+        <img src="https://arcade-vault-seven.vercel.app/AV.png" alt="Arcade Vault" width="100" />
       </a>
     </td>
-    <td align="left" style="font-size: 13.5px; line-height: 1.5; vertical-align: top;">
-      <strong><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade_Vault</a></strong><br/>
-      A sleek, interactive gaming site with smooth animations.<br/>
-      ⚡ Built with <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>CSS</strong>.<br/>
-      🧠 Includes AI-ready smart search features.<br/>
+    <td style="font-size: 14px; line-height: 1.5;">
+      <strong><a href="https://arcade-vault-seven.vercel.app/">🎮 Arcade Vault</a></strong><br/>
+      A fun, interactive gaming site I built while exploring web tech and animations.<br/>
+      ⚡ Smooth animations + AI-ready search features.<br/>
       🌐 <a href="https://arcade-vault-seven.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/Krish-Kal/arcade-vault">GitHub</a>
     </td>
   </tr>
 </table>
 
-<br><br>
+---
 
+### 🏆 GitHub Stats
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Kal&show_icons=true&count_private=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Kal&layout=compact&theme=dark" />
+</p>
 
 ---
 
-### 🧑‍💻 GitHub Stats
+### 🌟 Fun Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish-Kal\&show_icons=true\&count_private=true\&hide_title=true\&hide=prs\&theme=dark)
-
-
-
----
-
-### 🤝 Let's Connect!
-
-<table align="center" style="width: 100%; max-width: 800px; text-align: center; border-spacing: 20px;">
-  <tr>
-    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" width="40" alt="Email"/>
-      </a>
-    </td>
-    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://static.licdn.com/aero-v1/sc/h/4221chis9yaztef5phd0v3lal" width="40" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td style="padding: 15px; background: #2c3e50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/120px-X_logo_2023.svg.png" width="40" alt="Twitter"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Up-Gamepad-blue?style=for-the-badge&logo=gamepad" />
+  <img src="https://img.shields.io/badge/Gamer-Yes-ff69b4?style=for-the-badge&logo=xbox" />
+  <img src="https://img.shields.io/badge/Explorer-Always-yellow?style=for-the-badge&logo=adobe" />
+  <img src="https://img.shields.io/badge/Always-Learning-lightgrey?style=for-the-badge&logo=education" />
+</p>
 
 ---
 
-### 🎉 Thanks for visiting my profile! 😊
+### 🤝 Let's Connect
 
-If you have any questions or just want to chat about coding, gaming, or AI, I’m always open to learning and collaborating. Let’s create something amazing together!
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
+
+### 🎉 Thanks for visiting!  
+
+I’m always exploring, learning, and building fun web projects. Let’s connect and level up together! 🚀  
 
 #### 🎮 Game On! 🎮
-
----
-
